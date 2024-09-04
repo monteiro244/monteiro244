@@ -8,7 +8,7 @@ Eu sou <strong>monteiro</strong>, <strong>estou cursando analise e desenvolvimen
 
 <div align="center">
 
-  <a href="https://criarmeulink.com.br/u/1725452731" alt="Gmail">
+  <a href="#" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
 
   <a href="#" alt="Linkedin">
